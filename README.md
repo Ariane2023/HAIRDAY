@@ -36,19 +36,12 @@ JSON Server (apenas local)
 Vercel — hospedagem
 
 ## 📁 Estrutura de Pastas
-hairday/
-├── dist/                 # Arquivos de build
-├── src/
-│   ├── libs/             # Configuração do dayjs
-│   ├── modules/          # Módulos JS organizados
-│   ├── services/         # Lógica de API (JSON Server)
-│   ├── styles/           # Arquivos CSS
-│   └── main.js           # Arquivo principal de entrada
-├── server.json           # Banco de dados fake (JSON Server)
-├── webpack.config.js     # Configuração do Webpack
-├── package.json
-└── index.html
+
+![image](https://github.com/user-attachments/assets/e4bc964c-8854-4566-aecf-21057e04a9ca)
+
+
 💻 Como rodar localmente
+
 ### Clone o repositório
 git clone https://github.com/seu-usuario/hairday.git
 cd hairday
