@@ -1,13 +1,13 @@
 # ✂️ Hairday
 Hairday é uma aplicação web de agendamento para corte de cabelo. Desenvolvida com HTML, CSS, JavaScript moderno (ES6+), Webpack e JSON Server, permite aos usuários visualizar horários disponíveis, agendar e cancelar compromissos de forma intuitiva.
 
-# 📸 Preview
+## 📸 Preview
 🔗 Acesse o projeto online na Vercel
 (https://hairday-r3l6-rfkbd5odh-ariane2023s-projects.vercel.app/)
 ![image](https://github.com/user-attachments/assets/7cb0c903-e1bd-452c-96de-8a94d25d1f02)
 
 
-# 🚀 Funcionalidades
+## 🚀 Funcionalidades
 📆 Visualização de horários disponíveis
 
 🖊️ Agendamento de horário
@@ -20,7 +20,7 @@ Hairday é uma aplicação web de agendamento para corte de cabelo. Desenvolvida
 
 ⚙️ Separação de código por módulos
 
-# 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML5 + CSS3
 
 JavaScript (ESModules)
@@ -35,7 +35,7 @@ JSON Server (apenas local)
 
 Vercel — hospedagem
 
-# 📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas
 hairday/
 ├── dist/                 # Arquivos de build
 ├── src/
@@ -49,30 +49,26 @@ hairday/
 ├── package.json
 └── index.html
 💻 Como rodar localmente
-## Clone o repositório
+### Clone o repositório
 git clone https://github.com/seu-usuario/hairday.git
 cd hairday
 
-## Instale as dependências
+### Instale as dependências
 npm install
 
-## Inicie o servidor fake (JSON Server)
+### Inicie o servidor fake (JSON Server)
 npm run server
 
-## Em outro terminal, rode a aplicação com Webpack Dev Server
+### Em outro terminal, rode a aplicação com Webpack Dev Server
 npm run dev
 
-# 📦 Build para produção
+## 📦 Build para produção
 
 npm run build
 Os arquivos finais estarão na pasta /dist.
 
-# 👩‍💻 Desenvolvedora
+## 👩‍💻 Desenvolvedora
 Feito com ❤️ por Ariane de Abreu Costa
 
-LinkedIn
-
-GitHub
-
-# 📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob a MIT License.
